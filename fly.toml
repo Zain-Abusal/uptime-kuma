@@ -1,7 +1,7 @@
 # fly.toml app configuration file generated for uptime-kuma-rjksgw on 2026-01-11T19:40:36Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
-#
+# 
 
 app = 'uptime-kuma-rjksgw'
 primary_region = 'ams'
